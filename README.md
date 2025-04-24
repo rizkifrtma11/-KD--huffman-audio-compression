@@ -1,4 +1,4 @@
-**MK Kompresi Data**
+**MK Kompresi Data**<br>
 Aplikasi website untuk mengompresi audio dengan algoritma Huffman Coding
 
 Kelompok
